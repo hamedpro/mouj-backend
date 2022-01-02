@@ -1,0 +1,8 @@
+remember we dont finish all plans if nessessary on new transaction
+make sure about backend
+-------
+how requests.php works => 
+create instanse of json_response_manager and assign to $rm
+test all error cases and if any happend add it to response manager
+$rm->done
+---------
